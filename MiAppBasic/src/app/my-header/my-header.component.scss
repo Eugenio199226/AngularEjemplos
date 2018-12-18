@@ -1,0 +1,14 @@
+
+header 
+{
+    >*{display:inline-block;}
+    nav {
+        float:right;    
+            ul >li{
+                color:red;
+            display:inline-block;
+            margin: 0 1em;
+            }
+        }
+    
+}
